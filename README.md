@@ -23,6 +23,9 @@ GitLab API Wrapper Sample Code List.
 |projects.rb|get projects|
 |users.rb|get users|
 |wikis.rb|generate wiki clone code|
+|all_delete_issue.rb|delete(pseudo) all issue|
+|copy_issue.rb|copy issue|
+|create_issue_code_gen.rb|create issue code generator|
 
 ## Ref
 https://github.com/NARKOZ/gitlab
